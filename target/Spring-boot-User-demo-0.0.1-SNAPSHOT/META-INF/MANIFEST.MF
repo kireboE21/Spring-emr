@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Hello
+Build-Jdk: Oracle OpenJDK version 1.8.0_281
+Implementation-Title: Spring-boot-User-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cobanogluhasan
+Main-Class: ${start-class}
+
